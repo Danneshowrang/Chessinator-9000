@@ -28,7 +28,7 @@ Also wrote a first pass at the firmware. Got the ESP32 hosting a simple webpage 
 
 # 7/11/2026 10 AM - Day 7
 
-_Time spent: 9h_
+_Time spent: 10h_
 
 Ran the final error check today and started going through everything it flagged. Turns out a lot of the warnings were actually fine, not real problems. Like the USB-C port has some pins that are supposed to be connected to each other, so the checker thinks it's a mistake even though it's normal. Same with a few other things, once I understood why they were flagged, they were easy to dismiss.
 
@@ -49,7 +49,7 @@ Finally got everything down to zero real errors. Board's done, parts list is don
 
 # 7/11/2026 9 AM - Day 6
 
-_Time spent: 9h_
+_Time spent: 11h_
 
 This was the worst day of all time, ever, in history. Somewhere earlier in the project, two things that were supposed to be separate, like ground and power, accidentally got connected without me realizing. The software just quietly merged them into one, and suddenly every single ground connection on the whole board was showing up as a 3v3. I had no idea why for hours. Tried deleting things, reconnecting things, none of it actually fixed the real problem because I was fixing the symptoms instead of the actual cause.
 
@@ -70,7 +70,7 @@ Eventually found it, way back from something I'd basically ignored earlier becau
 
 # 7/11/2026 9 AM - Day 5
 
-_Time spent: 9.833333333333334h_
+_Time spent: 13_
 
 Spent basically the whole day trying to get all 64 sensors placed in a perfectly even grid, using the official chess board spacing. Kept running into small alignment issues, like things drifting slightly off as I moved across columns, and one side of the board ended up not quite matching the other side by a couple millimeters. Had to keep recalculating and nudging things to get it centered right. 
 
