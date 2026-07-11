@@ -1,0 +1,18 @@
+Name,Price,Link,Quantity
+XT30 Plug*,$0.38,https://jlcpcb.com/partdetail/Changzhou_AmassElec-XT30PW_M30_GY/C431092,1
+Hall Sensor*,$0.11,https://jlcpcb.com/partdetail/GoChip_Elec_Tech_Shanghai-GH49FEUAC/C92332,64
+3.4A Inductor*,$0.06,https://jlcpcb.com/partdetail/146573-SMNR4020_22UH/C135262,3
+10A Fuse*,$0.21,https://jlcpcb.com/partdetail/BHFUSE-BSMD1206L500/C914097,2
+23V Diode*,$4.75,https://jlcpcb.com/partdetail/10752-SMBJ18A/C10212,2
+Polarized Caps*,$0.04,https://jlcpcb.com/partdetail/DMBJ-RVT1E470M0605_47UF25V/C970677,2
+AO3401A MOSFET,$0.10,https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3401A/C15127,2
+12-pin FFC*,$0.10,https://jlcpcb.com/partdetail/JUSHUO-AFC07_S12FCA00/C262559,2
+Ceramic Caps,$0.03,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663,4
+ESP-32-S3-N16*,$5.42,https://jlcpcb.com/partdetail/3198297-ESP32_S3_WROOM_1N16/C2913199,1
+SOIC-24 MUX*,$0.67,https://jlcpcb.com/partdetail/TexasInstruments-CD74HC4067M96/C496123,4
+3.3V Buck*,$0.61,https://jlcpcb.com/partdetail/DiodesIncorporated-AP63203WU7/C780769,1
+5V Buck*,$0.56,https://jlcpcb.com/partdetail/DiodesIncorporated-AP63201WU7/C2071044,1
+USB-C*,$0.10,https://jlcpcb.com/partdetail/HCTL-HC_TYPE_C_16P01A/C2894897,1
+Gross:,$27.49,"""+ shipping""",
+Pick & Place: ,36,* - +$3 one-time extended fee for pick and place machine,
+Total:,$63.49,,
