@@ -12,7 +12,8 @@ This board utilizes a network of hall sensors to track and log moves. Made up of
 <img width="1121" height="797" alt="image" src="https://github.com/user-attachments/assets/d07efa62-4895-4733-980a-e934e40342c0" />
 <img width="711" height="682" alt="image" src="https://github.com/user-attachments/assets/af6641b2-5af9-4e58-99ad-e9831b18bfc6" />
 
-
+# CAD
+Link to Onshape: https://cad.onshape.com/documents/2e4e2dec579cd54b02eea52a/w/9b3b1f51bd0c7211bdccebd8/e/a09db839a12e81c960572c26?renderMode=0&uiState=6a51f7b7bcb9fa1e94df709e
 
 
 # Bill Of Materials
