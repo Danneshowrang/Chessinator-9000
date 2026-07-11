@@ -17,3 +17,4 @@ Link to Onshape: https://cad.onshape.com/documents/2e4e2dec579cd54b02eea52a/w/9b
 
 
 # Bill Of Materials
+<img width="774" height="631" alt="Screenshot 2026-07-11 at 6 36 42 AM" src="https://github.com/user-attachments/assets/6e150556-e5a9-46ee-be12-8b2089461ca1" />
